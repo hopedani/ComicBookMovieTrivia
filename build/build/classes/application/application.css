@@ -1,0 +1,56 @@
+#btnA {
+    -fx-border-color: yellow; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: red;
+}
+
+#btnA:hover {
+    -fx-border-color: red; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: yellow;
+}
+
+#btnB {
+    -fx-border-color: yellow; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: red;
+}
+
+#btnB:hover {
+    -fx-border-color: red; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: yellow;
+}
+
+#btnC {
+    -fx-border-color: yellow; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: red;
+}
+
+#btnC:hover {
+    -fx-border-color: red; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: yellow;
+}
+
+#btnD {
+    -fx-border-color: yellow; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: red;
+}
+
+#btnD:hover {
+    -fx-border-color: red; 
+    -fx-border-width: 3px; 
+    -fx-border-radius: 67; 
+    -fx-background-color: yellow;
+}
+

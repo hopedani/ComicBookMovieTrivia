@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ComicMovieTrivia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/dist/ComicMovieTrivia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
